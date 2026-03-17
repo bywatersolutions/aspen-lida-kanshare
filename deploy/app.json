@@ -1,0 +1,15 @@
+{
+      "name": "KanShare",
+      "slug": "kanshare",
+      "easId": "13765183-6a57-4003-8570-b79018a56b92",
+      "reverseDns": "org.aspendiscovery.kanshare",
+      "discoveryUrl": "https://kanshare.aspendiscovery.org/",
+      "greenhouseUrl": "https://kanshare.aspendiscovery.org/",
+      "libraryId": "15",
+      "themeId": "1",
+      "background": "#FFFFFF",
+      "sentryProject": "aspen-lida-kanshare",
+      "sentryDsn": "https://79b6be4faa2f3928e71237017ad0b6ea@o994439.ingest.us.sentry.io/4511055287091200",
+      "ascAppId": "tbd",
+      "logLevel": "0"
+}
